@@ -1,0 +1,9 @@
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\bin\Debug\netstandard2.1\ShowWatch.Shared.deps.json
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\bin\Debug\netstandard2.1\ShowWatch.Shared.dll
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\bin\Debug\netstandard2.1\ShowWatch.Shared.pdb
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.csprojAssemblyReference.cache
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.AssemblyInfoInputs.cache
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.AssemblyInfo.cs
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.csproj.CoreCompileInputs.cache
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.dll
+C:\BLAZOR\CA3ShowWatch\ShowWatch\ShowWatch\Shared\obj\Debug\netstandard2.1\ShowWatch.Shared.pdb
