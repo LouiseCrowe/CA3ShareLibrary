@@ -4,14 +4,33 @@ using System.Text;
 
 namespace ShowWatch.Shared
 {
+    public enum ShowType
+    {
+        BoxSet, Documentary, Movie
+    }
+
+    public enum Status
+    {
+        Available, AwaitingRelease, NoReleaseDate, Watched
+    }
+
     public class Show
     {
-        public DateTime Date { get; set; }
+        public string Title { get; set; }
+        
+        public ShowType ShowType { get; set; }
+        
+        public Status Status { get; set; }
+        
+        public DateTime ReleaseDate { get; set; }
 
-        public int TemperatureC { get; set; }
+        public bool IsKidFriendly { get; set; }
 
-        public string Summary { get; set; }
+        public int? LatestSeason { get; set; }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public int? NumEpisodes { get; set; }
+
+        public string Description { get; set; }
+        
     }
 }
